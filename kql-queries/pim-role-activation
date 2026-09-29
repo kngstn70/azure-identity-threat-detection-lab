@@ -1,0 +1,3 @@
+AuditLogs
+| where OperationName == "Add member to role completed (PIM activation)"
+| extend InitiatingUser = tostring(InitiatedBy.user.userPrincipalName)
