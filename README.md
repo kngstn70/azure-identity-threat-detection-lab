@@ -10,7 +10,7 @@ I built an isolated Azure tenant with Microsoft Entra ID and Microsoft Sentinel,
 3. Simulated a brute-force attack against a test account
 4. Investigated, classified, and contained the resulting incident
 
-Full video walkthrough: ** Place holder **
+Full video walkthrough: **[Azure Threat Detection Lab](https://youtu.be/2LGjESUU7sY)**
 
 ## Architecture
 
